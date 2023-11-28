@@ -22,7 +22,7 @@
   },
   "repository": "Permissionless-Software-Foundation/avax-bridge",
   "dependencies": {
-    "@psf/bch-js": "4.17.6",
+    "@psf/bch-js": "4.20.24",
     "avalanche": "^3.2.6",
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "ajv": "^5.5.2",
-    "apidoc": "^0.26.0",
+    "apidoc": "^0.50.0",
     "bitbox-mock": "^1.0.3",
     "chai": "^4.3.0",
     "coveralls": "^3.1.0",
