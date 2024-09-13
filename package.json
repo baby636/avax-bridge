@@ -72,7 +72,7 @@
     "nock": "^10.0.6",
     "nyc": "^15.1.0",
     "semantic-release": "^17.3.9",
-    "sinon": "^9.2.4",
+    "sinon": "^19.0.0",
     "standard": "^16.0.3"
   },
   "release": {
