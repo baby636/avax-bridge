@@ -22,7 +22,7 @@
   },
   "repository": "Permissionless-Software-Foundation/avax-bridge",
   "dependencies": {
-    "@psf/bch-js": "4.17.6",
+    "@psf/bch-js": "4.20.24",
     "avalanche": "^3.2.6",
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
@@ -49,7 +49,7 @@
     "passport-local": "^1.0.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.9.0",
     "slp-avax-bridge": "^1.6.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0"
