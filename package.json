@@ -22,7 +22,7 @@
   },
   "repository": "Permissionless-Software-Foundation/avax-bridge",
   "dependencies": {
-    "@psf/bch-js": "4.17.6",
+    "@psf/bch-js": "6.8.2",
     "avalanche": "^3.2.6",
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
@@ -43,7 +43,7 @@
     "koa-static": "^5.0.0",
     "line-reader": "^0.4.0",
     "mongoose": "^5.11.15",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^7.0.7",
     "p-queue": "^6.2.1",
     "p-retry": "^4.2.0",
     "passport-local": "^1.0.0",
